@@ -4,9 +4,9 @@ function getDiceRollArray(diceCount) {
     ) 
 }
 
-// const audioObj = new Audio("/audio/songOfWolves.mp3");
+const audioObj2 = new Audio("/audio/knights.mp3");
 
-// audioObj.play();
+audioObj2.play();
 
 
 const getPercentage2 = (remainingMana, maximumMana) => 
